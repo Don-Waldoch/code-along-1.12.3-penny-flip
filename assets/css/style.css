@@ -39,6 +39,14 @@ button {
     border-radius: 10px;
 }
 
+.buttonFlip {
+    background: linear-gradient(to bottom left, lightblue, white);
+}
+
+.buttonClear {
+    background: linear-gradient(to bottom left, orange, white);
+}
+
 #flip,
 #roll {
     background: linear-gradient(to bottom left, lightblue, white);
